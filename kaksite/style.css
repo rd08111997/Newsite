@@ -1,0 +1,29 @@
+
+	p.big-text{
+		font-size: 30px;
+	}
+	h2.big-text{
+		font-size: 50px;
+	}
+	article > p{
+		color: green;
+	}
+	.square{
+		width: ;
+		height: ;
+		color: black;
+		background-color: green; 
+	}
+	a:link, a:visited{
+		background-color: #F9A825;
+		text-decoration: none;
+		color:#C6FF00;
+		width: 100px;
+		text-align: center;
+		display: block;
+
+	}
+	a:hover, a:active{
+		background-color: #E64A19;
+		color: #616161;
+	}
